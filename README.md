@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @x-WRAITH
+- 👀 I'm interested in programming, girls and beers, and generally alcohol
+- 🌱 I am currently learning c#, PHP, JavaScript, C++
+- 📫 You can contact me on 420 420 420
