@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @x-WRAITH
 - 👀 I'm interested in programming, girls and beers, and generally alcohol
-- 🌱 I am currently learning C#, C++, PHP, JavaScript, HHTML, SQL
+- 🌱 I am currently learning C#, C++, PHP, JavaScript, HTML, SQL
 - 📫 You can contact me on 420 420 420
